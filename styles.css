@@ -6,6 +6,6 @@ h1 {
     color: palevioletred;
 }
 
-h2, p {
+h2, h3, p, ul, ol {
 color: palevioletred;
 }
