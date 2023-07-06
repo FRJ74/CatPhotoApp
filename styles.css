@@ -1,11 +1,16 @@
 body {
-background-color: mistyrose;
-}
+    background-color: #CCFFCC;
+    }
+
 h1 {
-    text-align: center;
-    color: palevioletred;
+        text-align: center;
+        color: #CC9900;
+    }
+    
+h2, h3, p, ul, ol, figcaption {
+    color: #CC9900;
 }
 
-h2, h3, p, ul, ol, figcaption {
-color: palevioletred;
+fieldset {
+    background-color: #CC9900;
 }
