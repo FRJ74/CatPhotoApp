@@ -14,3 +14,12 @@ h2, h3, p, ul, ol, figcaption {
 fieldset {
     background-color: #CC9900;
 }
+
+legend {
+        background-color: #dfa700;
+        color: #CCFFCC;
+        padding: 5px 10px;  
+}
+label {
+    color: #CCFFCC;
+}
